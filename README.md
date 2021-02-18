@@ -1,5 +1,5 @@
 # JavaScript Calculator
-<img src="./images/calcscreen.png" alt="calculator" width="200"/>
+<img src="./images/calcscreen.png" alt="calculator" width="1000"/>
 
 ## Programmer
 
