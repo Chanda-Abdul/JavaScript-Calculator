@@ -9,6 +9,6 @@ Chanda Abdul
 ## Summary
 
 ## Updates
--[ ] Make Responsive
--[ ] update stylings
--[ ] improve functionality
+- [ ] Make Responsive
+- [ ] update stylings
+- [ ] improve functionality
