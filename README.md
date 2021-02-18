@@ -1,4 +1,5 @@
 # JavaScript Calculator
+![](./images/calcscreen.png)
 
 ## Programmer
 

@@ -1,9 +1,6 @@
-*,
-*::before,
-*::after {
+* {
   box-sizing: border-box;
   font-family: "Share Tech Mono", monospace;
-  
 }
 
 body {
@@ -11,11 +8,9 @@ body {
   margin: 0;
   /* background: linear-gradient(to right, #00aaff, #00ff6c); */
   background-image: url(https://images.unsplash.com/photo-1542435503-956c469947f6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1);
-  
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0,0.5) */
-  
 }
 /* body img {
     opacity: 0.2;
@@ -28,7 +23,6 @@ body {
   min-height: 100vh;
   grid-template-columns: repeat(4, 100px);
   grid-template-rows: minmax(120px, auto) repeat(5, 100px);
-  
 }
 
 .calculator-grid > button {
@@ -36,7 +30,7 @@ body {
   font-size: 2rem;
   border: 1px solid white;
   outline: none;
-  background-color: rgba(255, 255, 255, .6);
+  background-color: rgba(255, 255, 255, 0.6);
 }
 .calculator-grid > button:hover {
   background-color: rgba(255, 255, 255, 0.9);
@@ -57,9 +51,9 @@ body {
   word-break: break-all;
 }
 
-.output .previous-operand,  .output .current-operand {
+.output .previous-operand,
+.output .current-operand {
   color: rgba(255, 255, 255, 0.75);
   font-weight: normal;
   font-size: 2rem;
 }
-
